@@ -5,7 +5,7 @@ The project is a web-based application that reads RSS feeds.
 
 ## How to run?
 
-* Download the repo and open `index.html`. OR To check live version. [clickhere]()
+* Download the repo and open `index.html`.
 
 * Test results Can be viewed at the bottom of the page once the page is loaded.
  
